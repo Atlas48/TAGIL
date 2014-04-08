@@ -9,8 +9,8 @@ What is it, though?
 TAGIL is a Python libary/module for the creation of text adventure games
 (Think something like Zork or The Hitchhiker's Guide to The Galaxy game)
 
-To do list
-----------
+To do list:
+-----------
 
-- [] Think of how this is gonna work
+- [ ] Think of how this is gonna work
 
