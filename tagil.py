@@ -23,6 +23,6 @@ class tagil
     opmsg=""	
     #End Quasi-Namespace
     def start
-        print(opmsg
+        print(opmsg)
         #End start
     
