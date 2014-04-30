@@ -12,5 +12,5 @@ TAGIL is a Python libary/module for the creation of text adventure games
 To do list:
 -----------
 
-- [ ] Think of how this is gonna work
+- [x] Think of how this is gonna work. Taking [this](http://en.wikipedia.org/wiki/Inform) an an infuence.
 
