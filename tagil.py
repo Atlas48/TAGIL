@@ -1,7 +1,7 @@
 #TAGIL: Text Adventure Game Python Libary
 #
 #Copyright (C) 2014 Archie Sullivan
-
+#
 #This program is free software: you can redistribute it and/or modify
 #it under the terms of the GNU General Public License as published by
 #the Free Software Foundation, either version 3 of the License, or
@@ -18,12 +18,14 @@
 #CURRENTLY WORK IN PROGRESS.
 #Code by Archie Sullivan
 
-class tagil
-    #Start "Namespace":
-    opmsg=""	
-    #End "Namespace"
-    def start
-        print(opmsg)
+import re
+regexp=re()
 
-        #End start
-    
+#Start "Namespace":
+opmsg="#placeholder"
+
+#End "Namespace"
+class type:
+    def get:
+
+
